@@ -1,1 +1,1 @@
-# premier log premierbranch
+# premier log premierbranch configuration
